@@ -6,17 +6,26 @@ import {
   SiSlack,
   SiVercel,
   SiMacos,
+  SiFigma,
+  SiDocker,
 } from "react-icons/si";
 
+import {
+  DiJavascript1,
+  DiReact,
+  DiNodejs,
+  DiMongodb,
+  DiPython,
+  DiGit,
+  DiJava,
+} from "react-icons/di";
+
+import { SiNetlify } from "react-icons/si";
+import { FiFigma } from "react-icons/fi";
+import { BiLogoDocker } from "react-icons/bi";
 function Toolstack() {
   return (
     <Row style={{ justifyContent: "center", paddingBottom: "50px" }}>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiMacos />
-      </Col>
-      <Col xs={4} md={2} className="tech-icons">
-        <SiVisualstudiocode />
-      </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiPostman />
       </Col>
@@ -24,7 +33,16 @@ function Toolstack() {
         <SiSlack />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <SiVercel />
+        <DiGit />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiNetlify />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiFigma />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiDocker />
       </Col>
     </Row>
   );
