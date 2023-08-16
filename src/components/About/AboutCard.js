@@ -13,22 +13,10 @@ function AboutCard() {
             I am a self-taught Full Stack Web Developer, currently trying to get professional
             experience.
             <br />
-            Additionally, I am currently work as a freelancer and have worked on a few projects.
+            Additionally, I am currently working as a freelancer and have worked on a few projects.
             <br />
             <br />
-            Apart from coding, some other activities that I love to do!
           </p>
-          <ul>
-            <li className="about-activity">
-              <ImPointRight /> Playing Games
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> Gym
-            </li>
-            <li className="about-activity">
-              <ImPointRight /> Barbecue
-            </li>
-          </ul>
         </blockquote>
       </Card.Body>
     </Card>
