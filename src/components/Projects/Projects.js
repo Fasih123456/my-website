@@ -37,7 +37,7 @@ function Projects() {
               title="Taxi Service Website"
               description="For a recent small business project, I designed a website with both frontend and backend capabilities using React.js and Node.js. In collaboration with a senior developer, I learned hosting APIs on Azure. Additionally, my integration of Tailwind CSS not only enhanced the project but also significantly bolstered my frontend skills. This project gained significant traction after hosting and has already served multiple clients."
               ghLink="https://github.com/Fasih123456/taxi-company-website.git"
-              demoLink="emmsminibus.com"
+              demoLink="http://emmsminibus.com"
             />
           </Col>
 
@@ -48,7 +48,7 @@ function Projects() {
               title="Construction Company Website"
               description="For a prominent company, I undertook a project focused primarily on a simple frontend without a backend. This experience significantly sharpened my communication and interpersonal skills due to regular engagements with executives and senior staff. All image placement and design is based on client request"
               ghLink="https://enchanting-profiterole-beb892.netlify.app/"
-              demoLink="emmsminibus.com"
+              demoLink="https://enchanting-profiterole-beb892.netlify.app/"
             />
           </Col>
 
